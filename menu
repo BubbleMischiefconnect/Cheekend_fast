@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Rollmaster-cheese",
+    "price": 250,
+    "imageURL": "https://i.ibb.co/Zz0jv4mJ/rollmaster-cheese.png"
+  },
+  {
+    "name": "Double-chicken-clasic",
+    "price": 240,
+    "imageURL": "https://i.ibb.co/4kWYBxG/double-chicken-clasic.png"
+  },
+  {
+    "name": "Chicken-cesadile",
+    "price": 240,
+    "imageURL": "https://i.ibb.co/1YWssMpF/chicken-cesadile.png"
+  },
+    {
+    "name": "Spicy_checken_burger",
+    "price": 230,
+    "imageURL": "https://i.ibb.co/qLs0WfxS/spicy-checken-burger.png"
+  },
+      {
+    "name": "Chickenburger",
+    "price": 180,
+    "imageURL": "https://i.ibb.co/DDX0bR6Z/chickenburger.png"
+  }
+]
