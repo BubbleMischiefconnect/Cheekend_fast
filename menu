@@ -1,6 +1,6 @@
 [
   {
-    "name": "Combo",
+    "name": "Combo-chicken-clasic",
     "price": 550,
     "imageURL": "https://i.ibb.co/4nn84SPc/combo.png"
   },
@@ -10,7 +10,7 @@
     "imageURL": "https://i.ibb.co/4kWYBxG/double-chicken-clasic.png"
   },
   {
-    "name": "Chicken-cesadile",
+    "name": "Chicken-cesadile-clasic",
     "price": 290,
     "imageURL": "https://i.ibb.co/1YWssMpF/chicken-cesadile.png"
   },
@@ -20,7 +20,7 @@
     "imageURL": "https://i.ibb.co/qLs0WfxS/spicy-checken-burger.png"
   },
       {
-    "name": "Chickenburger",
+    "name": "Chickenburger_clasic",
     "price": 280,
     "imageURL": "https://i.ibb.co/DDX0bR6Z/chickenburger.png"
   }
