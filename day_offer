@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Cappuccino",
+    "description": "2 for the price of 1!",
+    "imageUrl": "https://i.ibb.co/rGY8wb8H/cappuccino.png"
+  },
+  {
+    "title": "Longer",
+    "description": "It's 50% off today",
+    "imageUrl": "https://i.ibb.co/zWJN2S9K/longer.png"
+  },
+  {
+    "title": "Special Offer 3",
+    "description": "It's 40% off today",
+    "imageUrl": "https://i.ibb.co/4RRJ9fNW/patty.png"
+  }
+]
